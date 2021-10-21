@@ -1,0 +1,13 @@
+C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\bin\Debug\MyAccounting.App.exe.config
+C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\bin\Debug\MyAccounting.App.exe
+C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\bin\Debug\MyAccounting.App.pdb
+C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\obj\Debug\MyAccounting.App.frmHomePage.resources
+C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\obj\Debug\MyAccounting.App.Properties.Resources.resources
+C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\obj\Debug\MyAccounting.App.csproj.GenerateResource.cache
+C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\obj\Debug\MyAccounting.App.csproj.CoreCompileInputs.cache
+C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\obj\Debug\MyAccounting.App.exe
+C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\obj\Debug\MyAccounting.App.pdb
+C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\obj\Debug\MyAccounting.App.frmInfoPersons.resources
+C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\obj\Debug\MyAccounting.App.csproj.CopyComplete
