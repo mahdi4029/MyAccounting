@@ -11,3 +11,12 @@ C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\obj\Debug\MyAccounting.Ap
 C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\bin\Debug\DevComponents.DotNetBar2.dll
 C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\bin\Debug\DevComponents.DotNetBar2.xml
 C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\obj\Debug\MyAccounting.App.csproj.CopyComplete
+C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\bin\Debug\MyAccounting.DataLayer.dll
+C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\bin\Debug\EntityFramework.dll
+C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\bin\Debug\MyAccounting.DataLayer.pdb
+C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\bin\Debug\MyAccounting.DataLayer.dll.config
+C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\bin\Debug\EntityFramework.xml
+C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\obj\Debug\MyAccounting.App.csprojAssemblyReference.cache
+C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MR\source\repos\MyAccounting\MyAccounting.App\obj\Debug\MyAccounting.App.frmAddOrEditPerson.resources
